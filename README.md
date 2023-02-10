@@ -1,7 +1,7 @@
 ## Olá eu sou o Vinicius Marques, Designer gráfico e aprendiz de desenvolvedor front-end!
 
 <div style="display: inline_block">
-  <h1>Minhas principais Linguagens e frameworks</h1>
+## Principais linguagens e frameworks
   <br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png">
@@ -11,7 +11,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-##
+## Me acompanhe nas redes sociais...
  
 <div> 
   <a href="https://instagram.com/m.arkes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
