@@ -1,8 +1,9 @@
 ## Olá eu sou o Vinicius Marques, Designer gráfico e aprendiz de desenvolvedor front-end!
 
 <div style="display: inline_block">
-## Principais linguagens e frameworks
-  <br>
+Principais linguagens e frameworks
+  <br />
+  <br />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
