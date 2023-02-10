@@ -1,16 +1,31 @@
-## Olá eu sou o Vinicius Marques, Designer gráfico e aprendiz de desenvolvedor front-end!
+<h1>Oi pessoal!</h1>
+<p>Meu nome é Vinicius Marques, mas todos me chamam apenas de "Markes"...<br />
+Sou Designer gráfico e aprendiz de desenvolvedor front-end!</p>
+<br />
+<div style="display: inline_block">
+  <h3>Principais linguagens e frameworks que utilizo</h3>
+  <img align="center" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="auto" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png">
+  <img align="center" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+  <br />
+  <br />
 
 <div style="display: inline_block">
-Principais linguagens e frameworks
-  <br />
-  <br />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <h3>As ferramentas para design que tenho maior domínio</h3>
+  <img align="center" height="auto" width="45" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_photoshop_macos_bigsur_icon_190436.png">
+  <img align="center" height="auto" width="45" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_illustrator_macos_bigsur_icon_190447.png">
+  <img align="center" height="auto" width="45" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_after_effects_macos_bigsur_icon_190464.png">
+  <img align="center" height="auto" width="45" src="https://cdn.icon-icons.com/icons2/3070/PNG/512/adobe_indesign_software_computer_app_design_software_icon_191061.png">
+  <img align="center" height="auto" width="40" src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png">
 </div>
+
+  <br />
+  <br />
 
 ## Me acompanhe nas redes sociais...
  
