@@ -3,13 +3,14 @@
 Sou Designer gráfico e aprendiz de desenvolvedor front-end!</p>
 <br />
 <div style="display: inline_block">
-  <h3>Principais linguagens e frameworks que utilizo</h3>
+  <h3>Principais linguagens frameworks e bibliotecas que utilizo</h3>
   <img align="center" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="auto" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png">
   <img align="center" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="auto" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_wordmark_logo_icon_146445.png">
 </div>
 
   <br />
