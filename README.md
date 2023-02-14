@@ -3,7 +3,7 @@
 Sou Designer gráfico e aprendiz de desenvolvedor front-end!</p>
 <br />
 <div style="display: inline_block">
-  <h3>Principais linguagens frameworks e bibliotecas que utilizo</h3>
+  <h3>Principais linguagens, frameworks e bibliotecas que utilizo</h3>
   <img align="center" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="auto" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png">
   <img align="center" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
