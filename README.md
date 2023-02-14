@@ -17,7 +17,7 @@ Sou Designer gráfico e aprendiz de desenvolvedor front-end!</p>
   <br />
 
 <div style="display: inline_block">
-  <h3>As ferramentas para design que tenho maior domínio</h3>
+  <h3>As ferramentas de design que tenho maior domínio</h3>
   <img align="center" height="auto" width="45" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_photoshop_macos_bigsur_icon_190436.png">
   <img align="center" height="auto" width="45" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_illustrator_macos_bigsur_icon_190447.png">
   <img align="center" height="auto" width="45" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_after_effects_macos_bigsur_icon_190464.png">
