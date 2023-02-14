@@ -1,6 +1,6 @@
 <h1>Oi pessoal!</h1>
 <p>Meu nome é Vinicius Marques, mas todos me chamam apenas de "Markes"...<br />
-Sou Designer gráfico a 5 anos e estou migrando para desenvolvedor front-end!</p>
+Sou Designer gráfico e desenvolvedor front-end!</p>
 <br />
 <div style="display: inline_block">
   <h3>Principais linguagens, frameworks e bibliotecas que utilizo</h3>
