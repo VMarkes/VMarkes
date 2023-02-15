@@ -46,5 +46,3 @@
   <a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/vinicius-messias-marques-78b32460/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-
-![snake gif](https://github.com/VMarkes/VMarkes/blob/output/github-contribution-grid-snake.svg)
