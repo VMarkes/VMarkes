@@ -36,16 +36,6 @@
 
   <br />
   <br />
-  
-  <a href="https://github.com/VMarkes/website-Gion-Restaurant">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VMarkes&theme=dark&show_icons=true&repo=website-Gion-Restaurant" />
-  </a>
-  <a href="https://github.com/VMarkes/My-first-App-in-Java">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VMarkes&theme=dark&show_icons=true&repo=My-first-App-in-Java" />
-  </a>
-  <a href="https://github.com/VMarkes/VMarkes">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VMarkes&theme=dark&show_icons=true&repo=VMarkes" />
-  </a>
 
 ## Contato e redes sociais...
  
