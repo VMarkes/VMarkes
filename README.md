@@ -1,6 +1,16 @@
-<h1>Oi pessoal!</h1>
-<p>Meu nome é Vinicius Marques, mas todos me chamam apenas de "Markes"...<br />
-Sou Designer gráfico e desenvolvedor front-end!</p>
+
+  <h1>Oi pessoal!</h1>
+  <p>Meu nome é Vinicius Marques, mas todos me chamam apenas de "Markes"...<br />
+  Sou Designer gráfico e desenvolvedor front-end!</p>
+  <br />
+  
+<div>
+  <a href="https://github.com/VMarkes">
+    <img width="500em" height="180em" src="https://github-readme-stats.vercel.app/api?username=VMarkes&theme=dark&show_icons=true" />
+    <img width="500em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VMarkes&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
+
 <br />
 <div style="display: inline_block">
   <h3>Principais linguagens, frameworks e bibliotecas que utilizo</h3>
@@ -27,6 +37,16 @@ Sou Designer gráfico e desenvolvedor front-end!</p>
 
   <br />
   <br />
+  
+  <a href="https://github.com/VMarkes/website-Gion-Restaurant">
+    <img width="500" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=VMarkes&theme=dark&show_icons=true&repo=website-Gion-Restaurant" />
+  </a>
+  <a href="https://github.com/VMarkes/My-first-App-in-Java">
+    <img width="500" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=VMarkes&theme=dark&show_icons=true&repo=My-first-App-in-Java" />
+  </a>
+  <a href="https://github.com/VMarkes/VMarkes">
+    <img width="500" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=VMarkes&theme=dark&show_icons=true&repo=VMarkes" />
+  </a>
 
 ## Contato e redes sociais...
  
