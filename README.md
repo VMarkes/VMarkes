@@ -4,9 +4,9 @@
   Sou Designer gráfico e desenvolvedor front-end!</p>
   <br />
   
-<div>
+<div align="center">
   <a href="https://github.com/VMarkes">
-    <img width="500em" height="180em" src="https://github-readme-stats.vercel.app/api?username=VMarkes&theme=dark&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=VMarkes&theme=dark&show_icons=true" />
   </a>
 </div>
 
