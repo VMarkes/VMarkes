@@ -3,12 +3,6 @@
   <p>Meu nome é Vinicius Marques, mas todos me chamam apenas de "Markes"...<br />
   Sou Designer gráfico e desenvolvedor front-end!</p>
   <br />
-  
-<div align="center">
-  <a href="https://github.com/VMarkes">
-    <img src="https://github-readme-stats.vercel.app/api?username=VMarkes&theme=dark&show_icons=true" />
-  </a>
-</div>
 
 <br />
 <div style="display: inline_block">
